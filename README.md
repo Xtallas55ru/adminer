@@ -1,5 +1,7 @@
-Adminer Theme
+Adminer With Theme
 =====================
+
+Current Adminer versionL 4.1.0
 
 Adminer css theme for the best php+mysql admin. Here's what it looks like:
 
