@@ -3,7 +3,7 @@
  * @Author: Phu Hoang
  * @Date:   2016-02-18 10:43:01
  * @Last Modified by:   Phu Hoang
- * @Last Modified time: 2016-02-18 10:58:08
+ * @Last Modified time: 2016-02-18 11:05:26
  */
 
 if(is_dir(dirname(__FILE__).DIRECTORY_SEPARATOR.'plugins')){
