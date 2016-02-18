@@ -39,10 +39,16 @@ Copy adminer.css to the folder where adminer.php is located. Voila.
 
 To update adminer, download the latest version of adminer.php from [adminer.org][1] The css can be used without modification for future releases of adminer.
 
-
-
 #### Credit
 The theme was a revision from the [Lukáš Brandejs][2] 
 
-  [1]: http://www.adminer.org
-  [2]: https://raw.githubusercontent.com/vrana/adminer/master/designs/ng9/adminer.css
+###  Support or Contact
+Having trouble? [contact me][3]
+
+In 2016, PhuHM ([@hmphu][4]), [http://hmphu.com][5]
+
+[1]: http://www.adminer.org
+[2]: https://raw.githubusercontent.com/vrana/adminer/master/designs/ng9/adminer.css
+[3]: mailto:me@hmphu.com
+[4]: https://github.com/hmphu
+[5]: http://www.hnphu.com
