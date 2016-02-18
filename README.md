@@ -7,6 +7,31 @@ Adminer css theme for the best php+mysql admin. Here's what it looks like:
 
 <img src="http://pappu687.github.io/screenshots/adminer-screenshot.png" width="650px" />
 
+### Installed Plugins
+- Adminer Dump Alter,
+- Adminer Dump Bz2,
+- Adminer Dump Date,
+- Adminer Dump Json,
+- Adminer Dump Php,
+- Adminer Dump Xml,
+- Adminer Dump Zip,
+- Adminer Edit Foreign,
+- Adminer Edit Textarea,
+- Adminer Email Table,
+- Adminer Enum Option,
+- Adminer File Upload
+- Adminer Foreign System,
+- Adminer Frames,
+- Adminer Json Column,
+- Adminer Links Direct,
+- Adminer Slugify,
+- Adminer Sql Log,
+- Adminer Translation,
+- Adminer Version Noverify,
+- Adminer Restore Menu Scroll,
+- Adminer Tables History,
+- Faster Tables Filter,
+
 ### Installation
 Copy adminer.css to the folder where adminer.php is located. Voila.
 

@@ -3,7 +3,7 @@
  * @Author: Phu Hoang
  * @Date:   2016-02-18 10:43:01
  * @Last Modified by:   Phu Hoang
- * @Last Modified time: 2016-02-18 11:05:26
+ * @Last Modified time: 2016-02-18 11:07:10
  */
 
 if(is_dir(dirname(__FILE__).DIRECTORY_SEPARATOR.'plugins')){
@@ -17,7 +17,7 @@ if(is_dir(dirname(__FILE__).DIRECTORY_SEPARATOR.'plugins')){
 	    }
 	    
 	    $plugins = array(
-	        new AdminerCheckboxSelect(),
+	        // new AdminerCheckboxSelect(),
 	        // new AdminerDatabaseHide(),
 	        new AdminerDumpAlter(),
 	        new AdminerDumpBz2(),
