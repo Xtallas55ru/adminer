@@ -1,11 +1,11 @@
 Adminer With Theme
 =====================
 
-Current Adminer versionL 4.1.0
+Current Adminer versionL 4.2.4
 
 Adminer css theme for the best php+mysql admin. Here's what it looks like:
 
-<img src="http://pappu687.github.io/screenshots/adminer-screenshot.png" width="650px" />
+<img src="http://hmphu.github.io/adminer/screenshot.png" width="650px" />
 
 ### Installed Plugins
 - Adminer Dump Alter,
